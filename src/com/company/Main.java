@@ -45,7 +45,7 @@ public class Main {
         int player4Position = calculatedHighScorePosition(score);
         displayHighScorePosition(playerName,player4Position);
 
-
+        System.out.println("test");
     }
 
 //      Create a method called displayHighScorePosition
